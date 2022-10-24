@@ -7,4 +7,4 @@ spec:
   targets:
     - ./artist-domain.yaml
     - ./artist-system.yaml
-    - ./artist-component.yaml
+    - ./artist-site.yaml
