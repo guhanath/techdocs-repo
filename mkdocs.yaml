@@ -1,0 +1,5 @@
+site_name: techdocs-demo
+nav:  
+  - Home: Index.md
+plugins: 
+  - techdocs-core
